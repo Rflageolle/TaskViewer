@@ -9,9 +9,7 @@
 
   * Mobile Application to view and change items as well as add files
 
-  [ ] - Continue to figure out git.
-  [x] - learn ruby's basics
-  [x] - complete codecademy's lesson on Ruby
-  [ ] - complete codecademy's lesson on JavaScript
-
-  
+  - [ ]  Continue to figure out git.
+  - [x]  learn ruby's basics
+  - [x]  complete codecademy's lesson on Ruby
+  - [ ]  complete codecademy's lesson on JavaScript
